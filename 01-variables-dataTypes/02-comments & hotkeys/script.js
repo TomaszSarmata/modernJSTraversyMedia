@@ -21,6 +21,11 @@ cmd z - will undo
 cmd d - will move cursor in multiple instance of the highlighted word (so first highlight the word and then cmd d)
 cmd shift l - will highlight all instances of the highlighted word (instead of moving one by one with the cmd d)
 option click will select multiple cursors
+cmd shift o - will search for the file
+cmd option f - will search for the word / phrase in the main text editor / main file
+cmd shift f - will search the word in the entire folder/project (or click magnifying glass)
+cmd b - will toggle the side bar
+ctrl ~ - will toggle the terminal
 
 */
 
